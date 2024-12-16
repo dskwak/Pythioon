@@ -1,0 +1,1402 @@
+[
+    {
+        "explain": "[re:COMMIT] 타입으로 견고하게 다형성으로 유연하게 - KAIST 전산학부 홍재민",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dfLul_1708571359123/coverImage.png?_=1709009136887",
+        "link": "https://edu.goorm.io/lecture/44039/re-commit-타입으로-견고하게-다형성으로-유연하게-kaist-전산학부-홍재민"
+    },
+    {
+        "explain": "[re:COMMIT] 소프트웨어 장인 정신, 우리가 함께 성장하는 방법 - 류석문 쏘카 CTO",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_RjQwc_1704432103929/coverImage.png?_=1704677236270",
+        "link": "https://edu.goorm.io/lecture/43473/re-commit-소프트웨어-장인-정신-우리가-함께-성장하는-방법-류석문-쏘카-cto"
+    },
+    {
+        "explain": "[개발자리] 깃 던전 공략법",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_FBxLh_1692759376108/coverImage.png?_=1704436426279",
+        "link": "https://edu.goorm.io/lecture/41313/개발자리-깃-던전-공략법"
+    },
+    {
+        "explain": "[re:COMMIT] 데이터로 고객을 움직이는 팀이 되어가는 여정 - 이진형 데이터 과학자",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aeajC_1691056174130/coverImage.png?_=1691056176438",
+        "link": "https://edu.goorm.io/lecture/40699/re-commit-데이터로-고객을-움직이는-팀이-되어가는-여정-이진형-데이터-과학자"
+    },
+    {
+        "explain": "[생활코딩] Teachable machine & WEB(javaScript)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_iydFf_1684478576771/coverImage.png?_=1691023829252",
+        "link": "https://edu.goorm.io/lecture/38619/생활코딩-teachable-machine-web-javascript"
+    },
+    {
+        "explain": "[생활코딩] JS로 만드는 AI : TensorFlow.js",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_WkccK_1687250304669/coverImage.png?_=1691023744481",
+        "link": "https://edu.goorm.io/lecture/39600/생활코딩-js로-만드는-ai-tensorflow-js"
+    },
+    {
+        "explain": "[생활코딩] Tensorflow 이미지 분류 - CNN (python)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_WTHOg_1686904318828/coverImage.png?_=1691023656993",
+        "link": "https://edu.goorm.io/lecture/39534/생활코딩-tensorflow-이미지-분류-cnn-python"
+    },
+    {
+        "explain": "[생활코딩] Tensorflow (python)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cbcfa_1686886718892/coverImage.png?_=1691023589725",
+        "link": "https://edu.goorm.io/lecture/39521/생활코딩-tensorflow-python"
+    },
+    {
+        "explain": "[re:COMMIT] 구글 엔지니어는 이렇게 일한다 - 이복연 번역가",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_mKjwJ_1688352367174/coverImage.png?_=1688352369338",
+        "link": "https://edu.goorm.io/lecture/39750/re-commit-구글-엔지니어는-이렇게-일한다-이복연-번역가"
+    },
+    {
+        "explain": "[생활코딩] Orange3 지도학습",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_MoCqz_1687249649059/coverImage.png?_=1689235494877",
+        "link": "https://edu.goorm.io/lecture/39599/생활코딩-orange3-지도학습"
+    },
+    {
+        "explain": "[생활코딩] Orange3",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_yKGVS_1686886944157/coverImage.png?_=1689235465079",
+        "link": "https://edu.goorm.io/lecture/39522/생활코딩-orange3"
+    },
+    {
+        "explain": "[생활코딩] 머신러닝1",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_uzjai_1687235932441/coverImage.png?_=1689235404269",
+        "link": "https://edu.goorm.io/lecture/39588/생활코딩-머신러닝1"
+    },
+    {
+        "explain": "[생활코딩] Django Web Framework",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bcbpk_1686877316073/coverImage.png?_=1689042993445",
+        "link": "https://edu.goorm.io/lecture/39513/생활코딩-django-web-framework"
+    },
+    {
+        "explain": "[생활코딩] p5.js",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ComIC_1686877535861/coverImage.png?_=1689043004942",
+        "link": "https://edu.goorm.io/lecture/39514/생활코딩-p5-js"
+    },
+    {
+        "explain": "[생활코딩] GraphQL",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ltJAk_1687313693639/coverImage.png?_=1687834730175",
+        "link": "https://edu.goorm.io/lecture/39623/생활코딩-graphql"
+    },
+    {
+        "explain": "[생활코딩] TypeScript",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ZKgoQ_1686892413643/coverImage.png?_=1687834679068",
+        "link": "https://edu.goorm.io/lecture/39523/생활코딩-typescript"
+    },
+    {
+        "explain": "[생활코딩] React 2022 개정판",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_RLgFo_1684205616885/coverImage.png?_=1687744654396",
+        "link": "https://edu.goorm.io/lecture/38511/생활코딩-react-2022-개정판"
+    },
+    {
+        "explain": "[개발자리] SwiftUI로 키패드 앱 iOS 독학하기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qbgCC_1686297484360/coverImage.png?_=1687310980456",
+        "link": "https://edu.goorm.io/lecture/39351/개발자리-swiftui로-키패드-앱-ios-독학하기"
+    },
+    {
+        "explain": "[개발자리] iOS App Dev Tutorials 따라해보기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cdHaY_1686297971164/coverImage.png?_=1687310950498",
+        "link": "https://edu.goorm.io/lecture/39352/개발자리-ios-app-dev-tutorials-따라해보기"
+    },
+    {
+        "explain": "[생활코딩] Visual Studio Code에서 git으로 협업하기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_GGMnW_1683602375888/coverImage.png?_=1686274419410",
+        "link": "https://edu.goorm.io/lecture/38196/생활코딩-visual-studio-code에서-git으로-협업하기"
+    },
+    {
+        "explain": "[생활코딩] SQLite",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_pGAVk_1683608127945/coverImage.png?_=1686274613163",
+        "link": "https://edu.goorm.io/lecture/38198/생활코딩-sqlite"
+    },
+    {
+        "explain": "[생활코딩] Flask Web Framework",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_peRaJ_1683858545251/coverImage.png?_=1686274655739",
+        "link": "https://edu.goorm.io/lecture/38381/생활코딩-flask-web-framework"
+    },
+    {
+        "explain": "[개발자리] 클론코딩 - 팁앱",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_TGVfn_1682674475147/coverImage.png?_=1683876821612",
+        "link": "https://edu.goorm.io/lecture/38083/개발자리-클론코딩-팁앱"
+    },
+    {
+        "explain": "[개발자리] 하나씩 꺼내먹는 SwiftUI - Level 2",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_VRlpy_1682671224337/coverImage.png?_=1686620703916",
+        "link": "https://edu.goorm.io/lecture/38082/개발자리-하나씩-꺼내먹는-swiftui-level-2"
+    },
+    {
+        "explain": "[개발자리] 클론코딩 - 설정앱",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_neDBh_1682664018249/coverImage.png?_=1683876774349",
+        "link": "https://edu.goorm.io/lecture/38080/개발자리-클론코딩-설정앱"
+    },
+    {
+        "explain": "[개발자리] 하나씩 꺼내먹는 SwiftUI - Level 1",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qedfM_1682661626257/coverImage.png?_=1683876728106",
+        "link": "https://edu.goorm.io/lecture/38077/개발자리-하나씩-꺼내먹는-swiftui-level-1"
+    },
+    {
+        "explain": "[개발자리] SwiftUI로 계산기앱 클론 코딩하기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_puVXy_1682071198836/coverImage.png?_=1683876656931",
+        "link": "https://edu.goorm.io/lecture/37989/개발자리-swiftui로-계산기앱-클론-코딩하기"
+    },
+    {
+        "explain": "[개발자리] SwiftUI로 배우는 Swift 문법의 기초",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qqjBb_1682072569139/coverImage.png?_=1683876694687",
+        "link": "https://edu.goorm.io/lecture/37991/개발자리-swiftui로-배우는-swift-문법의-기초"
+    },
+    {
+        "explain": "[개발자리] 스위프트 유치원",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jIJtZ_1682067487092/coverImage.png?_=1683876568828",
+        "link": "https://edu.goorm.io/lecture/37988/개발자리-스위프트-유치원"
+    },
+    {
+        "explain": "[re:COMMIT] 명령어를 이해하는 오픈소스 언어 모델 ‘KoAlpaca’ 개발기 - 이준범 연구원",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ailZk_1685686817640/coverImage.png?_=1685689444620",
+        "link": "https://edu.goorm.io/lecture/39089/re-commit-명령어를-이해하는-오픈소스-언어-모델-koalpaca-개발기-이준범-연구원"
+    },
+    {
+        "explain": "[re:COMMIT] Go 언어, 어디에 써야 할까? - 이호민 개발자",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Naeln_1684388532484/coverImage.png?_=1684388534782",
+        "link": "https://edu.goorm.io/lecture/38585/re-commit-go-언어-어디에-써야-할까-이호민-개발자"
+    },
+    {
+        "explain": "MariaDB 클라이언트 개발, HeidiSQL",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_vdtnk_1678274259658/coverImage.png?_=1680519212877",
+        "link": "https://edu.goorm.io/lecture/36796/mariadb-클라이언트-개발-heidisql"
+    },
+    {
+        "explain": "개발자를 위한 컴퓨터공학1: 혼자 공부하는 컴퓨터 구조 + 운영체제",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_WcdCS_1681373842665/coverImage.png?_=1681867124509",
+        "link": "https://edu.goorm.io/lecture/37804/개발자를-위한-컴퓨터공학1-혼자-공부하는-컴퓨터-구조-운영체제"
+    },
+    {
+        "explain": "[re:COMMIT] 기술 부채를 바라보는 다른 시각 - 양수열 소장",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_OsEOC_1679993175444/coverImage.png?_=1679993176787",
+        "link": "https://edu.goorm.io/lecture/37331/re-commit-기술-부채를-바라보는-다른-시각-양수열-소장"
+    },
+    {
+        "explain": "[re:COMMIT] 성공적으로 신기술을 도입하는 법 - 김충섭 CTO",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qEoHA_1679992498426/coverImage.png?_=1679993159436",
+        "link": "https://edu.goorm.io/lecture/37330/re-commit-성공적으로-신기술을-도입하는-법-김충섭-cto"
+    },
+    {
+        "explain": "[re:COMMIT] 성장 : 개발자들의 평생 과제 - 김승호 SRE",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_GyWHp_1669171032636/coverImage.png?_=1680520547328",
+        "link": "https://edu.goorm.io/lecture/34063/re-commit-성장-개발자들의-평생-과제-김승호-sre"
+    },
+    {
+        "explain": "자바스크립트 ES6+ 기초 핵심 문법",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_efQwc_1669435679375/coverImage.png?_=1670209565054",
+        "link": "https://edu.goorm.io/lecture/34097/자바스크립트-es6-기초-핵심-문법"
+    },
+    {
+        "explain": "우리가 함께 하는 파이썬 A.I. 체험",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_XtgYv_1664852081192/coverImage.png?_=1665640502386",
+        "link": "https://edu.goorm.io/lecture/33535/우리가-함께-하는-파이썬-a-i-체험"
+    },
+    {
+        "explain": "라즈베리파이와의 첫만남, OS설치부터 화면 미러링까지!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ZxvLK_1663651235627/coverImage.png?_=1664245312753",
+        "link": "https://edu.goorm.io/lecture/33457/라즈베리파이와의-첫만남-os설치부터-화면-미러링까지"
+    },
+    {
+        "explain": "코딩은 처음이라 with 웹 퍼블리싱",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fdvXl_1658104632420/coverImage.png?_=1660196393334",
+        "link": "https://edu.goorm.io/lecture/32173/코딩은-처음이라-with-웹-퍼블리싱"
+    },
+    {
+        "explain": "생활코딩 - Python 입문",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_VbGRb_1630072548024/coverImage.png?_=1630931615729",
+        "link": "https://edu.goorm.io/lecture/28708/생활코딩-python-입문"
+    },
+    {
+        "explain": "생활코딩 - Docker 입문",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_CgdWi_1630072325129/coverImage.png?_=1630931631325",
+        "link": "https://edu.goorm.io/lecture/28707/생활코딩-docker-입문"
+    },
+    {
+        "explain": "코딩은 처음이라 with 자바",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ypmeP_1646359320544/coverImage.png?_=1654849837639",
+        "link": "https://edu.goorm.io/lecture/30549/코딩은-처음이라-with-자바"
+    },
+    {
+        "explain": "처음 만난 리액트(React) v2",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aiLRR_1651137245666/coverImage.png?_=1651916147188",
+        "link": "https://edu.goorm.io/lecture/31349/처음-만난-리액트-react-v2"
+    },
+    {
+        "explain": "이론부터 쉽게 배우는 IoT",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bHWPg_1647788369016/coverImage.png?_=1648709804539",
+        "link": "https://edu.goorm.io/lecture/30745/이론부터-쉽게-배우는-iot"
+    },
+    {
+        "explain": "입문자를 위한 반응형 웹 기초 강의",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dVZgw_1647570435027/coverImage.png?_=1648185946818",
+        "link": "https://edu.goorm.io/lecture/30724/입문자를-위한-반응형-웹-기초-강의"
+    },
+    {
+        "explain": "왕초보를 위한 HTML&CSS 웹 개발 입문",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ZLlQz_1642769471714/coverImage.png?_=1642769473566",
+        "link": "https://edu.goorm.io/lecture/30092/왕초보를-위한-html-css-웹-개발-입문"
+    },
+    {
+        "explain": "제대로 배우는 정혜경 C언어 입문",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fjobB_1639041932934/coverImage.png?_=1641201957156",
+        "link": "https://edu.goorm.io/lecture/29775/제대로-배우는-정혜경-c언어-입문"
+    },
+    {
+        "explain": "[EduAtoZ] Python Cos Pro 1급 공개문제 풀이",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_zjIwt_1638891479475/coverImage.png?_=1640670605303",
+        "link": "https://edu.goorm.io/lecture/29705/eduatoz-python-cos-pro-1급-공개문제-풀이"
+    },
+    {
+        "explain": "HTML5 & CSS3 기초 문법 올인원",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aaVXk_1628476577180/coverImage.png?_=1629252998294",
+        "link": "https://edu.goorm.io/lecture/28488/html5-css3-기초-문법-올인원"
+    },
+    {
+        "explain": "[하루10분|Web-App] 생애최초 웹프레임워크 Ruby on Rails",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_eoHih_1628571768734/coverImage.png?_=1629252559685",
+        "link": "https://edu.goorm.io/lecture/28494/하루10분-web-app-생애최초-웹프레임워크-ruby-on-rails"
+    },
+    {
+        "explain": "퇴근후 텐서플로: Basic",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_lOaUB_1624900658373/coverImage.png?_=1625709307309",
+        "link": "https://edu.goorm.io/lecture/28058/퇴근후-텐서플로-basic"
+    },
+    {
+        "explain": "입문자를 위한 CSS 기초 강의",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jymAA_1623812444299/coverImage.png?_=1625101417682",
+        "link": "https://edu.goorm.io/lecture/27976/입문자를-위한-css-기초-강의"
+    },
+    {
+        "explain": "입문자를 위한 HTML 기초 강의",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_DJBoN_1623751607493/coverImage.png?_=1625048740169",
+        "link": "https://edu.goorm.io/lecture/27971/입문자를-위한-html-기초-강의"
+    },
+    {
+        "explain": "Vuetify Admin Template 만들기 - 기본편",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_DAhiP_1623649223889/coverImage.png?_=1623649225966",
+        "link": "https://edu.goorm.io/lecture/27955/vuetify-admin-template-만들기-기본편"
+    },
+    {
+        "explain": "Jupyter Notebook으로 시작하는 Python",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_IbIfA_1616308029312/coverImage.png?_=1616553872893",
+        "link": "https://edu.goorm.io/lecture/26535/jupyter-notebook으로-시작하는-python"
+    },
+    {
+        "explain": "[저자 직강] Do it! HTML/CSS/JS 웹 표준의 정석",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_mwrnY_1616409179347/coverImage.png?_=1616409181480",
+        "link": "https://edu.goorm.io/lecture/26571/저자-직강-do-it-html-css-js-웹-표준의-정석"
+    },
+    {
+        "explain": "가볍게 시작하는 C언어, 라이트 C",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ggbPH_1611391194451/coverImage.png?_=1615883421534",
+        "link": "https://edu.goorm.io/lecture/25515/가볍게-시작하는-c언어-라이트-c"
+    },
+    {
+        "explain": "누구나 블로그 개발 할 수 있다! React 기반 Gatsby로 기술 블로그 개발하기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_WEpLq_1614184797797/coverImage.png?_=1615198840334",
+        "link": "https://edu.goorm.io/lecture/25881/누구나-블로그-개발-할-수-있다-react-기반-gatsby로-기술-블로그-개발하기"
+    },
+    {
+        "explain": "모의해킹 취업 준비하는데 알아두면 좋은 것",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_TEHay_1614169064158/coverImage.png?_=1614322418135",
+        "link": "https://edu.goorm.io/lecture/25879/모의해킹-취업-준비하는데-알아두면-좋은-것"
+    },
+    {
+        "explain": "[하루 10분|Web Project] HTML/JS/CSS로 나만의 MBTI 사이트 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_PtpKm_1612850691886/coverImage.png?_=1613986405320",
+        "link": "https://edu.goorm.io/lecture/25652/하루-10분-web-project-html-js-css로-나만의-mbti-사이트-만들기"
+    },
+    {
+        "explain": "[하루 10분|C++] 누구나 쉽게 배우는 C++ 프로그래밍 입문",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qxlDW_1609576318320/coverImage.png?_=1612856658637",
+        "link": "https://edu.goorm.io/lecture/25274/하루-10분-c-누구나-쉽게-배우는-c-프로그래밍-입문"
+    },
+    {
+        "explain": "HAL, CubeMX, TrueSTUDIO를 이용한 STM32F4 따라하기 무료 강좌",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_QXagr_1610803915574/coverImage.png?_=1611728469370",
+        "link": "https://edu.goorm.io/lecture/25454/hal-cubemx-truestudio를-이용한-stm32f4-따라하기-무료-강좌"
+    },
+    {
+        "explain": "CentOS 7 설치부터 웹서버 구축까지",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_AsRDY_1608045525904/coverImage.png?_=1609895288734",
+        "link": "https://edu.goorm.io/lecture/25119/centos-7-설치부터-웹서버-구축까지"
+    },
+    {
+        "explain": "파이썬 웹 스크래핑, 제가 가진 모든 비법을 알려드리겠습니다.",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_QsdEr_1607208405012/coverImage.png?_=1608022821110",
+        "link": "https://edu.goorm.io/lecture/24961/파이썬-웹-스크래핑-제가-가진-모든-비법을-알려드리겠습니다"
+    },
+    {
+        "explain": "코딩 입문 - 하다 보니 알게 되는 자바스크립트",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dkail_1607242175561/coverImage.png?_=1607936176253",
+        "link": "https://edu.goorm.io/lecture/24963/코딩-입문-하다-보니-알게-되는-자바스크립트"
+    },
+    {
+        "explain": "2021 온라인 코딩 파티 - 텍스트 코딩 용사가 되자!!!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_EaCWa_1606319876519/coverImage.png?_=1627993358809",
+        "link": "https://edu.goorm.io/lecture/24789/2021-온라인-코딩-파티-텍스트-코딩-용사가-되자"
+    },
+    {
+        "explain": "2021 온라인 코딩 파티 - 파이썬 데이터 분석 및 시각화!!!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qgakT_1606319933333/coverImage.png?_=1627993018917",
+        "link": "https://edu.goorm.io/lecture/24790/2021-온라인-코딩-파티-파이썬-데이터-분석-및-시각화"
+    },
+    {
+        "explain": "2021 온라인 코딩 파티 - 둘이서 코딩, 거북선과 척후선!!!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_byxFa_1606319953253/coverImage.png?_=1627993188754",
+        "link": "https://edu.goorm.io/lecture/24791/2021-온라인-코딩-파티-둘이서-코딩-거북선과-척후선"
+    },
+    {
+        "explain": "2021 온라인 코딩 파티 - 코딩랜드를 구하라!!!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_EmLwV_1606320005890/coverImage.png?_=1627993066543",
+        "link": "https://edu.goorm.io/lecture/24792/2021-온라인-코딩-파티-코딩랜드를-구하라"
+    },
+    {
+        "explain": "2021 온라인 코딩 파티 - 도전 틱택토!!!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cXaTu_1606320024642/coverImage.png?_=1627993110251",
+        "link": "https://edu.goorm.io/lecture/24793/2021-온라인-코딩-파티-도전-틱택토"
+    },
+    {
+        "explain": "스프링부트 개념정리",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_PVJPK_1605093580647/coverImage.png?_=1605699115285",
+        "link": "https://edu.goorm.io/lecture/24604/스프링부트-개념정리"
+    },
+    {
+        "explain": "스프링부트 나만의 블로그 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_swOIq_1605093610832/coverImage.png?_=1605699126599",
+        "link": "https://edu.goorm.io/lecture/24605/스프링부트-나만의-블로그-만들기"
+    },
+    {
+        "explain": "스프링부트 시큐리티 특강",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Nzfhr_1605093622970/coverImage.png?_=1605699133324",
+        "link": "https://edu.goorm.io/lecture/24606/스프링부트-시큐리티-특강"
+    },
+    {
+        "explain": "생산성 UP! R과 파이썬으로 하는 문서 자동화",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bQSgO_1604382705949/coverImage.png?_=1604382706871",
+        "link": "https://edu.goorm.io/lecture/24475/생산성-up-r과-파이썬으로-하는-문서-자동화"
+    },
+    {
+        "explain": "가위바위보 게임을 만들며 맛보는 파이썬3",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Ynmhp_1604495492090/coverImage.png?_=1604581473348",
+        "link": "https://edu.goorm.io/lecture/24499/가위바위보-게임을-만들며-맛보는-파이썬3"
+    },
+    {
+        "explain": "현직 개발자가 알려주는 안드로이드 코틀린 앱 제작",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_OgamN_1599803958714/coverImage.png?_=1600426039791",
+        "link": "https://edu.goorm.io/lecture/23399/현직-개발자가-알려주는-안드로이드-코틀린-앱-제작"
+    },
+    {
+        "explain": "현직 개발자가 알려주는 자바 기초 문법",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aalpb_1599803928219/coverImage.png?_=1600425638212",
+        "link": "https://edu.goorm.io/lecture/23398/현직-개발자가-알려주는-자바-기초-문법"
+    },
+    {
+        "explain": "[온라인 SW 아카데미] 너도 할 수 있어! AI 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_JZjDe_1597028483866/coverImage.png?_=1631690489681",
+        "link": "https://edu.goorm.io/lecture/22325/온라인-sw-아카데미-너도-할-수-있어-ai-만들기"
+    },
+    {
+        "explain": "[온라인 SW 아카데미] 컴린이도 화이트해커가 될 수 있다?!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_OlIPH_1597122097038/coverImage.png?_=1631690502197",
+        "link": "https://edu.goorm.io/lecture/22341/온라인-sw-아카데미-컴린이도-화이트해커가-될-수-있다"
+    },
+    {
+        "explain": "[온라인 SW 아카데미] 유니티로 배우는 게임 프로그래밍 기초",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_leyhr_1597122697154/coverImage.png?_=1631690517985",
+        "link": "https://edu.goorm.io/lecture/22342/온라인-sw-아카데미-유니티로-배우는-게임-프로그래밍-기초"
+    },
+    {
+        "explain": "[온라인 SW 아카데미] 스마트폰 센서 제어를 위한 앱(app) 개발",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ITDsR_1597129160575/coverImage.png?_=1631690546202",
+        "link": "https://edu.goorm.io/lecture/22344/온라인-sw-아카데미-스마트폰-센서-제어를-위한-앱-app-개발"
+    },
+    {
+        "explain": "파이썬으로 배우는 알고리즘 기초",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_biMLR_1598105895063/coverImage.png?_=1598935388475",
+        "link": "https://edu.goorm.io/lecture/22654/파이썬으로-배우는-알고리즘-기초"
+    },
+    {
+        "explain": "한 눈에 보는 타입스크립트",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Hlqcp_1595917474039/coverImage.jpg?_=1596115562967",
+        "link": "https://edu.goorm.io/lecture/22106/한-눈에-보는-타입스크립트"
+    },
+    {
+        "explain": "[애플 공식 교재] 스위프트 퍼즐 2",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_hieig_1595233653811/coverImage.png?_=1605591412381",
+        "link": "https://edu.goorm.io/lecture/22013/애플-공식-교재-스위프트-퍼즐-2"
+    },
+    {
+        "explain": "[애플 공식 교재] 스위프트 퍼즐 1",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_AYBwk_1594958220567/coverImage.png?_=1605591398356",
+        "link": "https://edu.goorm.io/lecture/21987/애플-공식-교재-스위프트-퍼즐-1"
+    },
+    {
+        "explain": "코린아, 코딩하자! with 파이썬",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ExUkz_1594871544775/coverImage.png?_=1595223190302",
+        "link": "https://edu.goorm.io/lecture/21975/코린아-코딩하자-with-파이썬"
+    },
+    {
+        "explain": "무료 파이썬 활용편2 - GUI 프로그래밍",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_FdmMF_1593849249695/coverImage.png?_=1594799516844",
+        "link": "https://edu.goorm.io/lecture/21780/무료-파이썬-활용편2-gui-프로그래밍"
+    },
+    {
+        "explain": "아두이노 시뮬레이터  - 팅커캐드 서킷",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kSKqc_1593769565016/coverImage.png?_=1594799577865",
+        "link": "https://edu.goorm.io/lecture/21770/아두이노-시뮬레이터-팅커캐드-서킷"
+    },
+    {
+        "explain": "한 눈에 읽는 루비 온 레일즈",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cWltG_1569483476137/coverImage.png?_=1594205541861",
+        "link": "https://edu.goorm.io/lecture/16335/한-눈에-읽는-루비-온-레일즈"
+    },
+    {
+        "explain": "동시에 배우는 C와 C++",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_xcaYw_1593398547105/coverImage.png?_=1593590498267",
+        "link": "https://edu.goorm.io/lecture/21611/동시에-배우는-c와-c"
+    },
+    {
+        "explain": "이부일의 R릴레오 기초편",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_VVqTD_1591677680282/coverImage.png?_=1593076745343",
+        "link": "https://edu.goorm.io/lecture/21022/이부일의-r릴레오-기초편"
+    },
+    {
+        "explain": "코딩셰프의 Flutter 순한맛",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kAkvh_1592198702406/coverImage.png?_=1592543726598",
+        "link": "https://edu.goorm.io/lecture/21167/코딩셰프의-flutter-순한맛"
+    },
+    {
+        "explain": "컴퓨터 일반론",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_JkfiH_1559053765678/coverImage.png?_=1592379557695",
+        "link": "https://edu.goorm.io/lecture/13426/컴퓨터-일반론"
+    },
+    {
+        "explain": "[저자 직강] Do it! 딥러닝 입문",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_MRltO_1592203745565/coverImage.png?_=1592207367442",
+        "link": "https://edu.goorm.io/lecture/21177/저자-직강-do-it-딥러닝-입문"
+    },
+    {
+        "explain": "무료 파이썬 활용편1 - 추억의 오락실 게임 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fjilg_1591652745786/coverImage.png?_=1591682927296",
+        "link": "https://edu.goorm.io/lecture/21001/무료-파이썬-활용편1-추억의-오락실-게임-만들기"
+    },
+    {
+        "explain": "디스코드 자바스크립트 튜토리얼 - 이전버전",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dXdxs_1591092135926/coverImage.png?_=1591700399957",
+        "link": "https://edu.goorm.io/lecture/20853/디스코드-자바스크립트-튜토리얼-이전버전"
+    },
+    {
+        "explain": "따라하며 배우는 데노(DENO)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_StjiI_1590492374181/coverImage.png?_=1590650323122",
+        "link": "https://edu.goorm.io/lecture/20663/따라하며-배우는-데노-deno"
+    },
+    {
+        "explain": "텐서플로2로 배우는 딥러닝",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_HsxsJ_1590582038991/coverImage.png?_=1590582041056",
+        "link": "https://edu.goorm.io/lecture/20687/텐서플로2로-배우는-딥러닝"
+    },
+    {
+        "explain": "딥러닝 이론 및 파이썬 실습",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_eSrxS_1590574335900/coverImage.png?_=1590574338209",
+        "link": "https://edu.goorm.io/lecture/20671/딥러닝-이론-및-파이썬-실습"
+    },
+    {
+        "explain": "[번역판] CLEAN CODE JAVASCRIPT",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jHjGl_1587123022992/coverImage.png?_=1587634904443",
+        "link": "https://edu.goorm.io/lecture/20119/번역판-clean-code-javascript"
+    },
+    {
+        "explain": "[30분 요약 시리즈 시즌2] Python 활용편",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fkgsv_1588041945377/coverImage.png?_=1589440988118",
+        "link": "https://edu.goorm.io/lecture/20254/30분-요약-시리즈-시즌2-python-활용편"
+    },
+    {
+        "explain": "COS PRO 1급 기출문제 - Python",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cPUpl_1575970544567/coverImage.png?_=1578912428152",
+        "link": "https://edu.goorm.io/lecture/17299/cos-pro-1급-기출문제-python"
+    },
+    {
+        "explain": "COS PRO 1급 기출문제 - C++",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_VKapZ_1575970588403/coverImage.png?_=1578912414347",
+        "link": "https://edu.goorm.io/lecture/17300/cos-pro-1급-기출문제-c"
+    },
+    {
+        "explain": "COS PRO 1급 기출문제 - Java",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aCmld_1575970654710/coverImage.png?_=1578912379562",
+        "link": "https://edu.goorm.io/lecture/17301/cos-pro-1급-기출문제-java"
+    },
+    {
+        "explain": "COS PRO 1급 기출문제 - C언어",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jcuZS_1575970467786/coverImage.png?_=1578912440902",
+        "link": "https://edu.goorm.io/lecture/17298/cos-pro-1급-기출문제-c언어"
+    },
+    {
+        "explain": "5일 만에 200만원 버는 웹과 앱 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ERBMF_1587630316106/coverImage.jpg?_=1587635150953",
+        "link": "https://edu.goorm.io/lecture/20213/5일-만에-200만원-버는-웹과-앱-만들기"
+    },
+    {
+        "explain": "[따라하며 배우는 노드&리액트] 챗봇 사이트 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fdEeI_1586759450749/coverImage.png?_=1605521621823",
+        "link": "https://edu.goorm.io/lecture/20020/따라하며-배우는-노드-리액트-챗봇-사이트-만들기"
+    },
+    {
+        "explain": "친절한 통계학 feat. R",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aVHcY_1587095055836/coverImage.png?_=1604381908661",
+        "link": "https://edu.goorm.io/lecture/20108/친절한-통계학-feat-r"
+    },
+    {
+        "explain": "[따라하며 배우는 노드&리액트] 영화 사이트 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kcpug_1586759426640/coverImage.png?_=1605521603533",
+        "link": "https://edu.goorm.io/lecture/20019/따라하며-배우는-노드-리액트-영화-사이트-만들기"
+    },
+    {
+        "explain": "파닥파닥 Flutter (빠르고 가볍게 Flutter 흔들기)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_BaQky_1576810789651/coverImage.png?_=1586830302691",
+        "link": "https://edu.goorm.io/lecture/17450/파닥파닥-flutter-빠르고-가볍게-flutter-흔들기"
+    },
+    {
+        "explain": "무료 파이썬 기본편 - 6시간 뒤면 나도 개발자",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_FTeqU_1586646885588/coverImage.png?_=1587030858891",
+        "link": "https://edu.goorm.io/lecture/19917/무료-파이썬-기본편-6시간-뒤면-나도-개발자"
+    },
+    {
+        "explain": "[무작정 풀스택] 플러터와 장고로 1시간 만에 퀴즈앱/서버 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fdoaF_1586759985201/coverImage.png?_=1586760024922",
+        "link": "https://edu.goorm.io/lecture/20021/무작정-풀스택-플러터와-장고로-1시간-만에-퀴즈앱-서버-만들기"
+    },
+    {
+        "explain": "쉽게 만드는 라라벨 뷰 채팅",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_BkySe_1584525096813/coverImage.png?_=1584703612343",
+        "link": "https://edu.goorm.io/lecture/18959/쉽게-만드는-라라벨-뷰-채팅"
+    },
+    {
+        "explain": "한 눈에 읽는 자바 기초",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_hyaxe_1585878202025/coverImage.png?_=1585878215508",
+        "link": "https://edu.goorm.io/lecture/19448/한-눈에-읽는-자바-기초"
+    },
+    {
+        "explain": "딥러닝 강좌할껀데, 실습만 합니다",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_lmcru_1585733782449/coverImage.png?_=1585733784286",
+        "link": "https://edu.goorm.io/lecture/19373/딥러닝-강좌할껀데-실습만-합니다"
+    },
+    {
+        "explain": "[무작정 플러터] Flutter + Firebase 넷플릭스UI 클론 코딩",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_EJyBk_1585302731454/coverImage.png?_=1585792440082",
+        "link": "https://edu.goorm.io/lecture/19172/무작정-플러터-flutter-firebase-넷플릭스ui-클론-코딩"
+    },
+    {
+        "explain": "쉽게 배우는 Vue.js 2 기초",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_CHgqS_1584525086837/coverImage.png?_=1585305209450",
+        "link": "https://edu.goorm.io/lecture/18958/쉽게-배우는-vue-js-2-기초"
+    },
+    {
+        "explain": "따라하면서 배우는 리눅스 고급",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aXSat_1584503810691/coverImage.png?_=1584503812413",
+        "link": "https://edu.goorm.io/lecture/18950/따라하면서-배우는-리눅스-고급"
+    },
+    {
+        "explain": "따라하면서 배우는 리눅스 기초",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ijHzA_1584070813778/coverImage.png?_=1584503521381",
+        "link": "https://edu.goorm.io/lecture/18808/따라하면서-배우는-리눅스-기초"
+    },
+    {
+        "explain": "MATLAB처럼 쓰는 PYTHON",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Apdxf_1584791632962/coverImage.png?_=1584948589189",
+        "link": "https://edu.goorm.io/lecture/19064/matlab처럼-쓰는-python"
+    },
+    {
+        "explain": "쉽게 배우는 라라벨 기초",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Qmpcj_1584525067015/coverImage.png?_=1584702985696",
+        "link": "https://edu.goorm.io/lecture/18957/쉽게-배우는-라라벨-기초"
+    },
+    {
+        "explain": "SELECT ALL FROM SQL",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cosdg_1584163338682/coverImage.png?_=1584588042881",
+        "link": "https://edu.goorm.io/lecture/18815/select-all-from-sql"
+    },
+    {
+        "explain": "한 눈에 읽는 파이썬3 기초",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_pRaAr_1581916229919/coverImage.png?_=1582095282954",
+        "link": "https://edu.goorm.io/lecture/17902/한-눈에-읽는-파이썬3-기초"
+    },
+    {
+        "explain": "[따라하며 배우는 노드&리액트] 유튜브 사이트 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_MpWTQ_1581490566243/coverImage.png?_=1581490567854",
+        "link": "https://edu.goorm.io/lecture/17853/따라하며-배우는-노드-리액트-유튜브-사이트-만들기"
+    },
+    {
+        "explain": "[따라하며 배우는 노드&리액트] Boiler-Plate 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ldsSd_1581515078921/coverImage.png?_=1581583355960",
+        "link": "https://edu.goorm.io/lecture/17855/따라하며-배우는-노드-리액트-boiler-plate-만들기"
+    },
+    {
+        "explain": "R프로그래밍 기초 다지기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jQeUN_1581423666239/coverImage.png?_=1581423668001",
+        "link": "https://edu.goorm.io/lecture/17848/r프로그래밍-기초-다지기"
+    },
+    {
+        "explain": "나도 AWS에 서버 구축해보자🐶",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_gjZdE_1581313030136/coverImage.png?_=1581337666318",
+        "link": "https://edu.goorm.io/lecture/17834/나도-aws에-서버-구축해보자"
+    },
+    {
+        "explain": "COS PRO 2급 기출문제 - Python",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aPlZg_1575074556037/coverImage.png?_=1578912470599",
+        "link": "https://edu.goorm.io/lecture/17033/cos-pro-2급-기출문제-python"
+    },
+    {
+        "explain": "COS PRO 2급 기출문제 - Java",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_lYtbk_1575522578427/coverImage.png?_=1578912451616",
+        "link": "https://edu.goorm.io/lecture/17167/cos-pro-2급-기출문제-java"
+    },
+    {
+        "explain": "COS PRO 2급 기출문제 - C++",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bJpMC_1575522411683/coverImage.png?_=1578912460214",
+        "link": "https://edu.goorm.io/lecture/17165/cos-pro-2급-기출문제-c"
+    },
+    {
+        "explain": "COS PRO 2급 기출문제 - C언어",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_mzyhk_1573875034818/coverImage.png?_=1578912482042",
+        "link": "https://edu.goorm.io/lecture/16921/cos-pro-2급-기출문제-c언어"
+    },
+    {
+        "explain": "[바로실습] 생활코딩 - JAVA 객체 지향 프로그래밍",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fTxld_1573632340074/coverImage.png?_=1576735228700",
+        "link": "https://edu.goorm.io/lecture/16910/바로실습-생활코딩-java-객체-지향-프로그래밍"
+    },
+    {
+        "explain": "가장 핫한 FE 라이브러리🔥, React 가지고 놀아보기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dkTwk_1570674578563/coverImage.png?_=1574932256154",
+        "link": "https://edu.goorm.io/lecture/16422/가장-핫한-fe-라이브러리-react-가지고-놀아보기"
+    },
+    {
+        "explain": "영화 예매 사이트 만들기: 코딩편",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_PKcla_1574059454815/coverImage.png?_=1574989667777",
+        "link": "https://edu.goorm.io/lecture/16943/영화-예매-사이트-만들기-코딩편"
+    },
+    {
+        "explain": "영화 예매 사이트 만들기: 디자인편",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_OesFg_1574151553693/coverImage.png?_=1574989651590",
+        "link": "https://edu.goorm.io/lecture/16948/영화-예매-사이트-만들기-디자인편"
+    },
+    {
+        "explain": "센치한 개발자의 swift: ios app 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jSjee_1564122867955/coverImage.png?_=1564478243464",
+        "link": "https://edu.goorm.io/lecture/15173/센치한-개발자의-swift-ios-app-만들기"
+    },
+    {
+        "explain": "[바로실습] 생활코딩 - JAVA method",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_XBucP_1573632327418/coverImage.png?_=1575361247042",
+        "link": "https://edu.goorm.io/lecture/16909/바로실습-생활코딩-java-method"
+    },
+    {
+        "explain": "[바로실습] 생활코딩 - JAVA 제어문",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_uLRQd_1573632316054/coverImage.png?_=1573704180239",
+        "link": "https://edu.goorm.io/lecture/16908/바로실습-생활코딩-java-제어문"
+    },
+    {
+        "explain": "[웹퍼블리싱 실습] 반응형 사이트 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fzzkf_1574059438036/coverImage.png?_=1574989683918",
+        "link": "https://edu.goorm.io/lecture/16942/웹퍼블리싱-실습-반응형-사이트-만들기"
+    },
+    {
+        "explain": "[웹퍼블리싱 실습] 웹 표준 사이트 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_sNGpx_1574059418279/coverImage.png?_=1574989703077",
+        "link": "https://edu.goorm.io/lecture/16941/웹퍼블리싱-실습-웹-표준-사이트-만들기"
+    },
+    {
+        "explain": "[바로실습] 생활코딩 - JAVA1",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fhtLO_1570759593557/coverImage.png?_=1570783721965",
+        "link": "https://edu.goorm.io/lecture/16448/바로실습-생활코딩-java1"
+    },
+    {
+        "explain": "2022 30분 요약 강좌 시즌 1 HTML, CSS, JS, Python, Bootstrap, Linux",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ikufa_1569991110304/coverImage.png?_=1570683915694",
+        "link": "https://edu.goorm.io/lecture/16385/2022-30분-요약-강좌-시즌-1-html-css-js-python-bootstrap-linux"
+    },
+    {
+        "explain": "하울의 안드로이드 인스타그램 앱 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_alulf_1568022010939/coverImage.png?_=1568626748440",
+        "link": "https://edu.goorm.io/lecture/16116/하울의-안드로이드-인스타그램-앱-만들기"
+    },
+    {
+        "explain": "코틀린으로 만드는 스프링부트",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_TRXZU_1567158282385/coverImage.png?_=1567408260350",
+        "link": "https://edu.goorm.io/lecture/15881/코틀린으로-만드는-스프링부트"
+    },
+    {
+        "explain": "현직개발자가 알려주는 안드로이드 앱 개발",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dcbWj_1566461795388/coverImage.png?_=1600420431116",
+        "link": "https://edu.goorm.io/lecture/15564/현직개발자가-알려주는-안드로이드-앱-개발"
+    },
+    {
+        "explain": "웹 서비스 해킹을 위한 버프스위트 완벽 활용 가이드",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qdnGQ_1566264558924/coverImage.png?_=1566365516546",
+        "link": "https://edu.goorm.io/lecture/15535/웹-서비스-해킹을-위한-버프스위트-완벽-활용-가이드"
+    },
+    {
+        "explain": "Shiny 그리고 시각화 R Go! 하자!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_VOmMw_1567147138174/coverImage.png?_=1621233835877",
+        "link": "https://edu.goorm.io/lecture/15875/shiny-그리고-시각화-r-go-하자"
+    },
+    {
+        "explain": "생활코딩 - Oracle Database",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_VcbKa_1566355130322/coverImage.png?_=1566524783448",
+        "link": "https://edu.goorm.io/lecture/15550/생활코딩-oracle-database"
+    },
+    {
+        "explain": "데이터 시각화와 차트분석 기법",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cywif_1566442799615/coverImage.png?_=1566443076901",
+        "link": "https://edu.goorm.io/lecture/15563/데이터-시각화와-차트분석-기법"
+    },
+    {
+        "explain": "웹 게임을 만들며 배우는 Vue",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bzoag_1566206272680/coverImage.png?_=1566206272969",
+        "link": "https://edu.goorm.io/lecture/15523/웹-게임을-만들며-배우는-vue"
+    },
+    {
+        "explain": "SwiftUI 개념 익히기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_hxUNh_1565677676590/coverImage.png?_=1577081203259",
+        "link": "https://edu.goorm.io/lecture/15378/swiftui-개념-익히기"
+    },
+    {
+        "explain": "누구나 쉽게 배우는 코딩 기초와 웹/앱 프로그래밍",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_tdyhj_1565087382328/coverImage.png?_=1565766108384",
+        "link": "https://edu.goorm.io/lecture/15287/누구나-쉽게-배우는-코딩-기초와-웹-앱-프로그래밍"
+    },
+    {
+        "explain": "센치한 개발자의 안드로이드 스튜디오 기초",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_xsqYh_1564122794617/coverImage.png?_=1564463296293",
+        "link": "https://edu.goorm.io/lecture/15171/센치한-개발자의-안드로이드-스튜디오-기초"
+    },
+    {
+        "explain": "센치한 개발자의 자바 기초",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_nxaOf_1564122748023/coverImage.png?_=1564463090722",
+        "link": "https://edu.goorm.io/lecture/15170/센치한-개발자의-자바-기초"
+    },
+    {
+        "explain": "IT보안을 위한 와이어샤크 패킷 분석",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_NpxFF_1563821127366/coverImage.png?_=1563955791366",
+        "link": "https://edu.goorm.io/lecture/15125/it보안을-위한-와이어샤크-패킷-분석"
+    },
+    {
+        "explain": "부담 없이 쉽고 편하게, 자바스크립트 기초 정리!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Pltjs_1562922996590/coverImage.png?_=1563261596993",
+        "link": "https://edu.goorm.io/lecture/14938/부담-없이-쉽고-편하게-자바스크립트-기초-정리"
+    },
+    {
+        "explain": "생활코딩 - WEB7: Login with Facebook On Passport(Facebook Login)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Zlker_1562294309236/coverImage.png?_=1562639301754",
+        "link": "https://edu.goorm.io/lecture/14674/생활코딩-web7-login-with-facebook-on-passport-facebook-login"
+    },
+    {
+        "explain": "생활코딩 - WEB7: Login with Google On Passport (Google Login)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_brfFE_1562294350092/coverImage.png?_=1562639330389",
+        "link": "https://edu.goorm.io/lecture/14675/생활코딩-web7-login-with-google-on-passport-google-login"
+    },
+    {
+        "explain": "생활코딩 - WEB6: Multi User on Passport (다중 사용자)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_AXaZm_1562205447562/coverImage.png?_=1562639202019",
+        "link": "https://edu.goorm.io/lecture/14644/생활코딩-web6-multi-user-on-passport-다중-사용자"
+    },
+    {
+        "explain": "생활코딩 - WEB5: Express Passport.js",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_SPrfc_1562205416687/coverImage.png?_=1573708567801",
+        "link": "https://edu.goorm.io/lecture/14643/생활코딩-web5-express-passport-js"
+    },
+    {
+        "explain": "생활코딩 - WEB4: Express Session & Auth (세션과 인증)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bUvdj_1562205380405/coverImage.png?_=1573708543209",
+        "link": "https://edu.goorm.io/lecture/14642/생활코딩-web4-express-session-auth-세션과-인증"
+    },
+    {
+        "explain": "인공지능 R GO! 하자!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cVYZR_1562049674720/coverImage.png?_=1621233843845",
+        "link": "https://edu.goorm.io/lecture/14631/인공지능-r-go-하자"
+    },
+    {
+        "explain": "생활코딩 - Node.js: 쿠키와 인증",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ljeJP_1562205127709/coverImage.png?_=1573708526238",
+        "link": "https://edu.goorm.io/lecture/14641/생활코딩-node-js-쿠키와-인증"
+    },
+    {
+        "explain": "생활코딩 - WEB3: Google Login",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bFgJD_1562130881092/coverImage.png?_=1562142920926",
+        "link": "https://edu.goorm.io/lecture/14634/생활코딩-web3-google-login"
+    },
+    {
+        "explain": "생활코딩 - WEB3: Facebook Login",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_etmoj_1562130862670/coverImage.png?_=1562142844909",
+        "link": "https://edu.goorm.io/lecture/14633/생활코딩-web3-facebook-login"
+    },
+    {
+        "explain": "생활코딩 - WEB3: Ajax",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_olZpk_1562130824241/coverImage.png?_=1562142650241",
+        "link": "https://edu.goorm.io/lecture/14632/생활코딩-web3-ajax"
+    },
+    {
+        "explain": "웹 게임을 만들며 배우는 React(리액트)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_RlOaq_1561605225581/coverImage.png?_=1561716241066",
+        "link": "https://edu.goorm.io/lecture/14562/웹-게임을-만들며-배우는-react-리액트"
+    },
+    {
+        "explain": "프로젝트를 통해 배우는 파이썬 프로그래밍",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cwVUi_1561619659278/coverImage.png?_=1561693621325",
+        "link": "https://edu.goorm.io/lecture/14588/프로젝트를-통해-배우는-파이썬-프로그래밍"
+    },
+    {
+        "explain": "생활코딩 - 관계형 데이터 모델링",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_chhSo_1561109425758/coverImage.png?_=1562121635521",
+        "link": "https://edu.goorm.io/lecture/14442/생활코딩-관계형-데이터-모델링"
+    },
+    {
+        "explain": "생활코딩 - SQL JOIN",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fcyLp_1561109414223/coverImage.png?_=1562121649504",
+        "link": "https://edu.goorm.io/lecture/14441/생활코딩-sql-join"
+    },
+    {
+        "explain": "[바로실습] 생활코딩 - JavaScript Immutability",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_IysIs_1561109392607/coverImage.png?_=1562121674976",
+        "link": "https://edu.goorm.io/lecture/14439/바로실습-생활코딩-javascript-immutability"
+    },
+    {
+        "explain": "생활코딩 - Redux",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_JkLil_1561109404287/coverImage.png?_=1562121662497",
+        "link": "https://edu.goorm.io/lecture/14440/생활코딩-redux"
+    },
+    {
+        "explain": "처음 만난 AWS",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_pLXjl_1556187523179/coverImage.png?_=1556589225150",
+        "link": "https://edu.goorm.io/lecture/12945/처음-만난-aws"
+    },
+    {
+        "explain": "처음 만난 React(리액트)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_rRgCo_1556278616000/coverImage.png?_=1560753644957",
+        "link": "https://edu.goorm.io/lecture/12976/처음-만난-react-리액트"
+    },
+    {
+        "explain": "안드로이드 + 파이어베이스 SNS앱 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_rEeFb_1559528001963/coverImage.png?_=1559528002194",
+        "link": "https://edu.goorm.io/lecture/13523/안드로이드-파이어베이스-sns앱-만들기"
+    },
+    {
+        "explain": "처음 시작하는 C언어",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_AxLjY_1558611564110/coverImage.png?_=1558664011178",
+        "link": "https://edu.goorm.io/lecture/13352/처음-시작하는-c언어"
+    },
+    {
+        "explain": "겜팔이의 안드로이드 세뇌교실: 인★그램 개발부터 배포까지",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_egUyY_1558342518464/coverImage.png?_=1558580744811",
+        "link": "https://edu.goorm.io/lecture/13313/겜팔이의-안드로이드-세뇌교실-인-그램-개발부터-배포까지"
+    },
+    {
+        "explain": "2019 겜팔이의 노릇노릇 파이어베이스",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_UejiW_1558338551601/coverImage.png?_=1558602022773",
+        "link": "https://edu.goorm.io/lecture/13306/2019-겜팔이의-노릇노릇-파이어베이스"
+    },
+    {
+        "explain": "생활코딩 - WEB2: Python",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_MMkdF_1556973824068/coverImage.png?_=1562121688968",
+        "link": "https://edu.goorm.io/lecture/13091/생활코딩-web2-python"
+    },
+    {
+        "explain": "생활코딩 - WEB3: PHP & MySQL",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Fcvcf_1556951557988/coverImage.png?_=1557897975522",
+        "link": "https://edu.goorm.io/lecture/13086/생활코딩-web3-php-and-mysql"
+    },
+    {
+        "explain": "생활코딩 - WEB2: Node.js - MySQL",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_UAIAU_1556953657994/coverImage.png?_=1557890937365",
+        "link": "https://edu.goorm.io/lecture/13087/생활코딩-web2-node-js-mysql"
+    },
+    {
+        "explain": "생활코딩 - WEB2: Home Server",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Zdtjn_1556973616022/coverImage.png?_=1557890910826",
+        "link": "https://edu.goorm.io/lecture/13090/생활코딩-web2-home-server"
+    },
+    {
+        "explain": "생활코딩 - WEB2: DNS & HTTP",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_pzLcA_1556973048491/coverImage.png?_=1557890921002",
+        "link": "https://edu.goorm.io/lecture/13089/생활코딩-web2-dns-http"
+    },
+    {
+        "explain": "생활코딩 - Source Tree로 Git 활용하기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_GxZAq_1556790792325/coverImage.png?_=1557898192441",
+        "link": "https://edu.goorm.io/lecture/13062/생활코딩-source-tree로-git-활용하기"
+    },
+    {
+        "explain": "생활코딩 - CodeIgniter",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_gBdCf_1556791981742/coverImage.png?_=1557898070003",
+        "link": "https://edu.goorm.io/lecture/13064/생활코딩-codeigniter"
+    },
+    {
+        "explain": "[바로실습] 생활코딩 - WEB2: PHP",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_PSgCV_1556637284629/coverImage.png?_=1557898218075",
+        "link": "https://edu.goorm.io/lecture/13048/바로실습-생활코딩-web2-php"
+    },
+    {
+        "explain": "생활코딩 - WEB2: OAuth 2.0",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_inpyS_1556636959287/coverImage.png?_=1556938851278",
+        "link": "https://edu.goorm.io/lecture/13047/생활코딩-web2-oauth-2-0"
+    },
+    {
+        "explain": "[바로실습] 생활코딩 - WEB2: CSS",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_uDCPh_1556635122616/coverImage.png?_=1557898255086",
+        "link": "https://edu.goorm.io/lecture/13045/바로실습-생활코딩-web2-css"
+    },
+    {
+        "explain": "다시 풀어보는 2019 정보올림피아드 1차 대회 기출문제",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ebuUa_1557131916711/coverImage.png?_=1557147607083",
+        "link": "https://edu.goorm.io/lecture/13095/다시-풀어보는-2019-정보올림피아드-1차-대회-기출문제"
+    },
+    {
+        "explain": "생활코딩 - Atom Editor",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_EjVWM_1556633516917/coverImage.png?_=1556938789743",
+        "link": "https://edu.goorm.io/lecture/13044/생활코딩-atom-editor"
+    },
+    {
+        "explain": "생활코딩 - WEB2: Node.js",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_hcUqd_1556637609156/coverImage.png?_=1557898205699",
+        "link": "https://edu.goorm.io/lecture/13049/생활코딩-web2-node-js"
+    },
+    {
+        "explain": "생활코딩 - WEB1: HTML & Internet",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_BhlXr_1556260301073/coverImage.png?_=1557898280677",
+        "link": "https://edu.goorm.io/lecture/12959/생활코딩-web1-html-internet"
+    },
+    {
+        "explain": "생활코딩 - WEB2: JavaScript",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bdKYv_1556013025639/coverImage.png?_=1557898300243",
+        "link": "https://edu.goorm.io/lecture/12906/생활코딩-web2-javascript"
+    },
+    {
+        "explain": "Vue.js로 시작하는 SPA 개발",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cRUOx_1556510425234/coverImage.png?_=1556618493236",
+        "link": "https://edu.goorm.io/lecture/13020/vue-js로-시작하는-spa-개발"
+    },
+    {
+        "explain": "생활코딩 - 리액트 (React) ver.2020",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_zxPwa_1556202507108/coverImage.png?_=1556515208151",
+        "link": "https://edu.goorm.io/lecture/12949/생활코딩-리액트-react-ver-2020"
+    },
+    {
+        "explain": "생활코딩 - 리눅스(Linux)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bZRuz_1556283751096/coverImage.png?_=1556515306777",
+        "link": "https://edu.goorm.io/lecture/12984/생활코딩-리눅스-linux"
+    },
+    {
+        "explain": "생활코딩 - 크롬 개발자도구",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dMlQc_1556283363906/coverImage.png?_=1556513711793",
+        "link": "https://edu.goorm.io/lecture/12983/생활코딩-크롬-개발자도구"
+    },
+    {
+        "explain": "생활코딩 - 네트워크 개념 잡기 (도메인, 네임서버, HTTPS)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kNNBh_1556273120577/coverImage.png?_=1556515282922",
+        "link": "https://edu.goorm.io/lecture/12973/생활코딩-네트워크-개념-잡기-도메인-네임서버-https"
+    },
+    {
+        "explain": "생활코딩 - 정규표현식",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bSdMo_1556272045456/coverImage.png?_=1556513733308",
+        "link": "https://edu.goorm.io/lecture/12972/생활코딩-정규표현식"
+    },
+    {
+        "explain": "생활코딩 - 지옥에서 온 Git",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_BpoYw_1556201347554/coverImage.png?_=1556253547333",
+        "link": "https://edu.goorm.io/lecture/12948/생활코딩-지옥에서-온-git"
+    },
+    {
+        "explain": "생활코딩 - 아마존 웹 서비스 (AWS)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_itUbM_1556198564614/coverImage.png?_=1556513755734",
+        "link": "https://edu.goorm.io/lecture/12947/생활코딩-아마존-웹-서비스-aws"
+    },
+    {
+        "explain": "[저자 직강 바로 실행] Do it! 웹 프로그래밍을 위한 자바스크립트 기본 편",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_lEoZi_1556085094432/coverImage.png?_=1556244669972",
+        "link": "https://edu.goorm.io/lecture/12915/저자-직강-바로-실행-do-it-웹-프로그래밍을-위한-자바스크립트-기본-편"
+    },
+    {
+        "explain": "[저자 직강] Do it! Node.js 프로그래밍",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dAhYb_1554173468595/coverImage.png?_=1554261711057",
+        "link": "https://edu.goorm.io/lecture/12534/저자-직강-do-it-node-js-프로그래밍"
+    },
+    {
+        "explain": "[저자 직강 바로 실행] Do it! 자바스크립트 + 제이쿼리 입문",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jfOhx_1554203818892/coverImage.png?_=1554261746757",
+        "link": "https://edu.goorm.io/lecture/12563/저자-직강-바로-실행-do-it-자바스크립트-제이쿼리-입문"
+    },
+    {
+        "explain": "[저자 직강 바로 실행] Do it! HTML5 + CSS3 웹 표준의 정석",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_FILBX_1554208138659/coverImage.png?_=1554261393188",
+        "link": "https://edu.goorm.io/lecture/12565/저자-직강-바로-실행-do-it-html5-css3-웹-표준의-정석"
+    },
+    {
+        "explain": "[저자 직강 바로 실행] Do it! 프런트엔드 웹 디자인 입문",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_tOSBF_1554269284050/coverImage.png?_=1554269284377",
+        "link": "https://edu.goorm.io/lecture/12583/저자-직강-바로-실행-do-it-프런트엔드-웹-디자인-입문"
+    },
+    {
+        "explain": "게임으로 배우는 JavaScript",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cEbDE_1553234612869/coverImage.png?_=1553505518066",
+        "link": "https://edu.goorm.io/lecture/12256/게임으로-배우는-javascript"
+    },
+    {
+        "explain": "스크래치 코딩으로 배우는 수학의 개념과 원리",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_lJoGP_1553236703018/coverImage.png?_=1553495908896",
+        "link": "https://edu.goorm.io/lecture/12267/스크래치-코딩으로-배우는-수학의-개념과-원리"
+    },
+    {
+        "explain": "무작정 시작하는 안드로이드 개발",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Odmhb_1553225713946/coverImage.png?_=1553490864920",
+        "link": "https://edu.goorm.io/lecture/12250/무작정-시작하는-안드로이드-개발"
+    },
+    {
+        "explain": "아두이노를 이용한 기상정보 수집과 빅데이터 분석",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ifNZo_1553224739033/coverImage.png?_=1553248169072",
+        "link": "https://edu.goorm.io/lecture/12249/아두이노를-이용한-기상정보-수집과-빅데이터-분석"
+    },
+    {
+        "explain": "React와 Node.js를 활용한 고객 관리 시스템 개발",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_wONqh_1551943937822/coverImage.png?_=1552028422739",
+        "link": "https://edu.goorm.io/lecture/11817/react와-node-js를-활용한-고객-관리-시스템-개발"
+    },
+    {
+        "explain": "Git으로 시작하는 협업 및 오픈소스 프로젝트",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_WJerj_1551334179356/coverImage.png?_=1551339186863",
+        "link": "https://edu.goorm.io/lecture/11528/git으로-시작하는-협업-및-오픈소스-프로젝트"
+    },
+    {
+        "explain": "자바로 이해하는 블록체인 이론과 실습",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fasfg_1551332585026/coverImage.png?_=1551332585474",
+        "link": "https://edu.goorm.io/lecture/11527/자바로-이해하는-블록체인-이론과-실습"
+    },
+    {
+        "explain": "모의 해킹으로 배우는 ARP 스푸핑 해킹 기법",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kKnov_1550825183855/coverImage.png?_=1551063335677",
+        "link": "https://edu.goorm.io/lecture/11409/모의-해킹으로-배우는-arp-스푸핑-해킹-기법"
+    },
+    {
+        "explain": "안경잡이개발자가 알려주는 텐서플로우&머신러닝",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_KtMMI_1550822823392/coverImage.png?_=1550827159206",
+        "link": "https://edu.goorm.io/lecture/11408/안경잡이개발자가-알려주는-텐서플로우-머신러닝"
+    },
+    {
+        "explain": "김왼손의 파이썬 예제 뽀개기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ZFige_1550050390743/coverImage.png?_=1550136200632",
+        "link": "https://edu.goorm.io/lecture/11205/김왼손의-파이썬-예제-뽀개기"
+    },
+    {
+        "explain": "[2018 디지털스쿨백팩] SW 아이디어 콘서트 수상작/출품작 갤러리",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_IwltB_1544670271988/coverImage.png?_=1547543558341",
+        "link": "https://edu.goorm.io/lecture/10682/2018-디지털스쿨백팩-sw-아이디어-콘서트-수상작-출품작-갤러리"
+    },
+    {
+        "explain": "안경잡이개발자가 알려주는 자바 기초 프로그래밍",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_CceLv_1545114856486/coverImage.png?_=1550827390202",
+        "link": "https://edu.goorm.io/lecture/10727/안경잡이개발자가-알려주는-자바-기초-프로그래밍"
+    },
+    {
+        "explain": "웹 게임을 만들며 배우는 JavaScript(자바스크립트)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fiPAG_1546909547034/coverImage.png?_=1547021573600",
+        "link": "https://edu.goorm.io/lecture/10954/웹-게임을-만들며-배우는-javascript-자바스크립트"
+    },
+    {
+        "explain": "생활코딩 - DATABASE2: lowdb",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_DeyEP_1545887896735/coverImage.png?_=1556515256822",
+        "link": "https://edu.goorm.io/lecture/10846/생활코딩-database2-lowdb"
+    },
+    {
+        "explain": "생활코딩 - DATABASE2: MySQL",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kYlMl_1545887614610/coverImage.png?_=1556515243383",
+        "link": "https://edu.goorm.io/lecture/10845/생활코딩-database2-mysql"
+    },
+    {
+        "explain": "[2018 우수활용사례 수상작] 교과서와 함께 배우는 컴퓨팅 사고력",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_eaKOY_1544669954900/coverImage.png?_=1544672061758",
+        "link": "https://edu.goorm.io/lecture/10681/2018-우수활용사례-수상작-교과서와-함께-배우는-컴퓨팅-사고력"
+    },
+    {
+        "explain": "생활코딩 - DATABASE1",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_GaiBT_1545887369643/coverImage.png?_=1556515229110",
+        "link": "https://edu.goorm.io/lecture/10844/생활코딩-database1"
+    },
+    {
+        "explain": "슬기로운 학교생활(코딩편)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_QzXMa_1544669420948/coverImage.png?_=1544672169368",
+        "link": "https://edu.goorm.io/lecture/10672/슬기로운-학교생활-코딩편"
+    },
+    {
+        "explain": "SW로 달리는 미래 자동차 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Lbxca_1544669191616/coverImage.png?_=1547810233275",
+        "link": "https://edu.goorm.io/lecture/10671/sw로-달리는-미래-자동차-만들기"
+    },
+    {
+        "explain": "안경잡이개발자가 알려주는 실전 알고리즘 강좌",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dIVFE_1545033003436/coverImage.png?_=1550827375907",
+        "link": "https://edu.goorm.io/lecture/10710/안경잡이개발자가-알려주는-실전-알고리즘-강좌"
+    },
+    {
+        "explain": "코딩으로 한. 수. 배우다!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_tfcxA_1544669694055/coverImage.png?_=1544672115496",
+        "link": "https://edu.goorm.io/lecture/10673/코딩으로-한-수-배우다"
+    },
+    {
+        "explain": "안경잡이개발자가 알려주는 C언어 기초 프로그래밍",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_PWere_1545112549935/coverImage.png?_=1550827358252",
+        "link": "https://edu.goorm.io/lecture/10719/안경잡이개발자가-알려주는-c언어-기초-프로그래밍"
+    },
+    {
+        "explain": "[절대강좌! 유니티 2018] Zerodeg과 함께 공부해보기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Vhdvj_1541497450403/coverImage.png?_=1543561693311",
+        "link": "https://edu.goorm.io/lecture/10107/절대강좌-유니티-2018-zerodeg과-함께-공부해보기"
+    },
+    {
+        "explain": "[스낵코딩] 코딩술사",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ovYFB_1539745972849/coverImage.jpg?_=1539746623280",
+        "link": "https://edu.goorm.io/lecture/6198/스낵코딩-코딩술사"
+    },
+    {
+        "explain": "[스낵코딩] 코딩더테이블",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_HHlap_1539674803133/coverImage.jpg?_=1539674803374",
+        "link": "https://edu.goorm.io/lecture/5999/스낵코딩-코딩더테이블"
+    },
+    {
+        "explain": "한 눈에 끝내는 고랭 기초",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_TlLHe_1517365485279/coverImage.gif?_=1586154913684",
+        "link": "https://edu.goorm.io/lecture/2010/한-눈에-끝내는-고랭-기초"
+    },
+    {
+        "explain": "[3D Unity] 생존게임 만들기! - Basic",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aTRFz_1538474461008/coverImage.png?_=1539186134114",
+        "link": "https://edu.goorm.io/lecture/5026/3d-unity-생존게임-만들기-basic"
+    },
+    {
+        "explain": "화이트해커가 되기 위한 8가지 웹 해킹 기술",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_WWvZM_1537351887454/coverImage.png?_=1537508674883",
+        "link": "https://edu.goorm.io/lecture/4953/화이트해커가-되기-위한-8가지-웹-해킹-기술"
+    },
+    {
+        "explain": "머신러닝 이론 및 파이썬 실습",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_IJodM_1532081693140/coverImage.png?_=1535725224407",
+        "link": "https://edu.goorm.io/lecture/4012/머신러닝-이론-및-파이썬-실습"
+    },
+    {
+        "explain": "[2017 NIA SW교안 공유 공모전] C언어, 스크래치를 통해 알아보자",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_YruAl_1514275704126/coverImage.png?_=1533639147099",
+        "link": "https://edu.goorm.io/lecture/1647/2017-nia-sw교안-공유-공모전-c언어-스크래치를-통해-알아보자"
+    },
+    {
+        "explain": "Git & GitHub 입문 by 코드스쿼드",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_MiAgn_1535552640729/coverImage.png?_=1535601145056",
+        "link": "https://edu.goorm.io/lecture/4661/git-github-입문-by-코드스쿼드"
+    },
+    {
+        "explain": "구름IDE를 이용하여 초고속으로 개인 웹 사이트 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cpMfu_1534918802379/coverImage.png?_=1534936383763",
+        "link": "https://edu.goorm.io/lecture/4543/구름ide를-이용하여-초고속으로-개인-웹-사이트-만들기"
+    },
+    {
+        "explain": "파이콘 2018 영코더 with 바울랩",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aDqDF_1531830899808/coverImage.png?_=1531899048875",
+        "link": "https://edu.goorm.io/lecture/3990/파이콘-2018-영코더-with-바울랩"
+    },
+    {
+        "explain": "스크래치로 생활 속 문제 해결하기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ltdJp_1514275941012/coverImage.png?_=1533633833140",
+        "link": "https://edu.goorm.io/lecture/1648/스크래치로-생활-속-문제-해결하기"
+    },
+    {
+        "explain": "개발자가 알려주는 코딩 인터뷰 정복하기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_IOTfd_1532082313542/coverImage.png?_=1533028917388",
+        "link": "https://edu.goorm.io/lecture/4014/개발자가-알려주는-코딩-인터뷰-정복하기"
+    },
+    {
+        "explain": "ELK 스택(ElasticSearch, Logstash, Kibana)으로 데이터 분석",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ltZrk_1532081785613/coverImage.png?_=1533102997228",
+        "link": "https://edu.goorm.io/lecture/4013/elk-스택-elasticsearch-logstash-kibana-으로-데이터-분석"
+    },
+    {
+        "explain": "[바로실습] 생활코딩 - WEB3: 익스프레스(Express)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cfEgp_1530669099155/coverImage.png?_=1556515152820",
+        "link": "https://edu.goorm.io/lecture/3846/바로실습-생활코딩-web3-익스프레스-express"
+    },
+    {
+        "explain": "머신러닝/딥러닝 실전 입문",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cIbch_1533029219475/coverImage.png?_=1616048209288",
+        "link": "https://edu.goorm.io/lecture/4111/머신러닝-딥러닝-실전-입문"
+    },
+    {
+        "explain": "[Pandas] 팬더스 데이터분석 기초 실습",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_IjelG_1532071808885/coverImage.png?_=1533016446394",
+        "link": "https://edu.goorm.io/lecture/3999/pandas-팬더스-데이터분석-기초-실습"
+    },
+    {
+        "explain": "유니티 강좌 [쯔꾸르풍 게임 제작하기]",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_siUQy_1531881966011/coverImage.png?_=1531984227863",
+        "link": "https://edu.goorm.io/lecture/3991/유니티-강좌-쯔꾸르풍-게임-제작하기"
+    },
+    {
+        "explain": "모두를 위한 딥러닝 - Deep Reinforcement Learning",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fIdGX_1531451585845/coverImage.png?_=1531977061118",
+        "link": "https://edu.goorm.io/lecture/3980/모두를-위한-딥러닝-deep-reinforcement-learning"
+    },
+    {
+        "explain": "MATLAB으로 시작하는 프로그래밍",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_KrePg_1531406455089/coverImage.png?_=1585145679028",
+        "link": "https://edu.goorm.io/lecture/3977/matlab으로-시작하는-프로그래밍"
+    },
+    {
+        "explain": "모두를 위한 딥러닝 - 기본적인 머신러닝과 딥러닝",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bkiKQ_1531451419290/coverImage.png?_=1531977049465",
+        "link": "https://edu.goorm.io/lecture/3979/모두를-위한-딥러닝-기본적인-머신러닝과-딥러닝"
+    },
+    {
+        "explain": "[ Ruby Coin ] Rails로 쉽고 빠른 웹사이트 만들기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_nxTEl_1515739162682/coverImage.png?_=1532395088874",
+        "link": "https://edu.goorm.io/lecture/1928/ruby-coin-rails로-쉽고-빠른-웹사이트-만들기"
+    },
+    {
+        "explain": "[저자직강] Hello Coding 한입에 쏙 파이썬: 크리에이터 김왼손의 쉽고 빠른 파이썬 강의",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_FvXTy_1530756775346/coverImage.png?_=1530762102608",
+        "link": "https://edu.goorm.io/lecture/3856/저자직강-hello-coding-한입에-쏙-파이썬-크리에이터-김왼손의-쉽고-빠른-파이썬-강의"
+    },
+    {
+        "explain": "정보처리산업기사 기출문제",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_vSkJJ_1529566891226/coverImage.png?_=1529578346596",
+        "link": "https://edu.goorm.io/lecture/3755/정보처리산업기사-기출문제"
+    },
+    {
+        "explain": "다시 풀어보는 2016/2017 정보올림피아드 지역 대회 초등부 기출 문제",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_KiNTc_1529484725174/coverImage.png?_=1529648437569",
+        "link": "https://edu.goorm.io/lecture/3746/다시-풀어보는-2016-2017-정보올림피아드-지역-대회-초등부-기출-문제"
+    },
+    {
+        "explain": "다시 풀어보는 2016/2017 정보올림피아드 지역 대회 중등부 기출 문제",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kykHt_1529484701073/coverImage.png?_=1529648451977",
+        "link": "https://edu.goorm.io/lecture/3745/다시-풀어보는-2016-2017-정보올림피아드-지역-대회-중등부-기출-문제"
+    },
+    {
+        "explain": "다시 풀어보는 2016/2017 정보올림피아드 지역 대회 고등부 기출 문제",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_MKagE_1529484683611/coverImage.png?_=1529648466322",
+        "link": "https://edu.goorm.io/lecture/3744/다시-풀어보는-2016-2017-정보올림피아드-지역-대회-고등부-기출-문제"
+    },
+    {
+        "explain": "IOS Firebase 강의",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_XEJND_1528439625885/coverImage.png?_=1528682465254",
+        "link": "https://edu.goorm.io/lecture/3530/ios-firebase-강의"
+    },
+    {
+        "explain": "안드로이드 Firebase 강의",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_zSAIg_1528437315480/coverImage.png?_=1528682429553",
+        "link": "https://edu.goorm.io/lecture/3528/안드로이드-firebase-강의"
+    },
+    {
+        "explain": "Node.js Firebase - Function",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_scmik_1528682072517/coverImage.png?_=1528704840034",
+        "link": "https://edu.goorm.io/lecture/3570/node-js-firebase-function"
+    },
+    {
+        "explain": "[바로실습] 생활코딩 - 자바스크립트(Javascript)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_BaUEo_1519795919393/coverImage.png?_=1556515180271",
+        "link": "https://edu.goorm.io/lecture/2229/바로실습-생활코딩-자바스크립트-javascript"
+    },
+    {
+        "explain": "김왼손의 유기농냠냠파이썬",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_nEHil_1528362688256/coverImage.jpg?_=1528679915233",
+        "link": "https://edu.goorm.io/lecture/3524/김왼손의-유기농냠냠파이썬"
+    },
+    {
+        "explain": "HowlTalk - Android (Firebase)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_mspPP_1528445135187/coverImage.png?_=1528682522043",
+        "link": "https://edu.goorm.io/lecture/3533/howltalk-android-firebase"
+    },
+    {
+        "explain": "HowlTalk - IOS(Firebase)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_nIehd_1528442792542/coverImage.png?_=1528702076953",
+        "link": "https://edu.goorm.io/lecture/3532/howltalk-ios-firebase"
+    },
+    {
+        "explain": "Node.js 서버 개발",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_DovID_1528451311062/coverImage.png?_=1528704858473",
+        "link": "https://edu.goorm.io/lecture/3534/node-js-서버-개발"
+    },
+    {
+        "explain": "안드로이드 앱 개발 강의 - 기초편",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_tysVj_1528351538096/coverImage.png?_=1528702244799",
+        "link": "https://edu.goorm.io/lecture/3523/안드로이드-앱-개발-강의-기초편"
+    },
+    {
+        "explain": "Swift3 아이폰 앱 강의-초보",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_sEhzi_1528434642783/coverImage.png?_=1528766813672",
+        "link": "https://edu.goorm.io/lecture/3527/swift3-아이폰-앱-강의-초보"
+    },
+    {
+        "explain": "C 프로그래밍 - 입문에서 게임 개발까지",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ANHAk_1516638180626/coverImage.png?_=1528752380516",
+        "link": "https://edu.goorm.io/lecture/1972/c-프로그래밍-입문에서-게임-개발까지"
+    },
+    {
+        "explain": "스크래치3 프로그래밍 - 기초부터 게임 만들기까지!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aljFL_1511486205699/coverImage.png?_=1528714484181",
+        "link": "https://edu.goorm.io/lecture/1478/스크래치3-프로그래밍-기초부터-게임-만들기까지"
+    },
+    {
+        "explain": "엔트리 기초부터 활용까지 정글코딩!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_UKziw_1519559717325/coverImage.png?_=1528561666945",
+        "link": "https://edu.goorm.io/lecture/2164/엔트리-기초부터-활용까지-정글코딩"
+    },
+    {
+        "explain": "[PYCON2017 시리즈] 머신러닝을 위한 기초 수학 살펴보기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_DvQXI_1512011741267/coverImage.png?_=1528561044803",
+        "link": "https://edu.goorm.io/lecture/1489/pycon2017-시리즈-머신러닝을-위한-기초-수학-살펴보기"
+    },
+    {
+        "explain": "[PYCON2017 시리즈] 파이썬에서 보다 정확한 숫자 계산하기",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_xbeJQ_1512011689875/coverImage.png?_=1528561069253",
+        "link": "https://edu.goorm.io/lecture/1488/pycon2017-시리즈-파이썬에서-보다-정확한-숫자-계산하기"
+    },
+    {
+        "explain": "[PYCON2017 시리즈] 처음부터 알아보는 웹 크롤러",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_hTzCs_1512011631717/coverImage.png?_=1528561085112",
+        "link": "https://edu.goorm.io/lecture/1487/pycon2017-시리즈-처음부터-알아보는-웹-크롤러"
+    },
+    {
+        "explain": "실리콘밸리의 개발자",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_czsfT_1512012409555/coverImage.png?_=1528561021609",
+        "link": "https://edu.goorm.io/lecture/1490/실리콘밸리의-개발자"
+    },
+    {
+        "explain": "김왼손의 미운코딩새끼: 4시간만에 끝내는 파이썬 기초",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_TejEa_1510754837950/coverImage.png?_=1528561614512",
+        "link": "https://edu.goorm.io/lecture/1461/김왼손의-미운코딩새끼-4시간만에-끝내는-파이썬-기초"
+    },
+    {
+        "explain": "엔트리 프로그래밍 - 기초부터 게임 만들기까지!",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kBSxL_1508927656641/coverImage.png?_=1528560877891",
+        "link": "https://edu.goorm.io/lecture/1361/엔트리-프로그래밍-기초부터-게임-만들기까지"
+    },
+    {
+        "explain": "야곰의 스위프트 프로그래밍",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aVklX_1505195317917/coverImage.png?_=1528561641088",
+        "link": "https://edu.goorm.io/lecture/1141/야곰의-스위프트-프로그래밍"
+    },
+    {
+        "explain": "[바로실습] 생활코딩 - 자바(JAVA)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_XcBke_1463649761052/coverImage.png?_=1556515167190",
+        "link": "https://edu.goorm.io/lecture/41/바로실습-생활코딩-자바-java"
+    },
+    {
+        "explain": "TODO 앱을 직접 만들면서 배우는 node.js / express / bootstrap / jquery",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_zNfhk_1473322293382/coverImage.png?_=1528561538570",
+        "link": "https://edu.goorm.io/lecture/332/todo-앱을-직접-만들면서-배우는-node-js-express-bootstrap-jquery"
+    },
+    {
+        "explain": "제1회 구름코드챌린지(GCC) 기출 문제",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_gfpKh_1500536971533/coverImage.png?_=1528561262315",
+        "link": "https://edu.goorm.io/lecture/790/제1회-구름코드챌린지-gcc-기출-문제"
+    },
+    {
+        "explain": "[바로실습] 생활코딩 - 파이썬(Python)",
+        "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_JeCgg_1463725730881/coverImage.png?_=1556515190507",
+        "link": "https://edu.goorm.io/lecture/44/바로실습-생활코딩-파이썬-python"
+    }
+]

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CHA | 관리자 권한</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+      }
+
+      h1 {
+        margin: 20px 0;
+      }
+
+      .container {
+        width: 80%;
+        max-width: 1000px;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        margin: 20px 0;
+      }
+
+      .search-container {
+        margin-bottom: 10px;
+      }
+
+      .search-container input[type='text'] {
+        width: 100%;
+        padding: 5px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+      }
+
+      .user-list {
+        width: 100%;
+        border-top: 1px solid #ddd;
+      }
+
+      .user-list .user {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 0;
+        border-bottom: 1px solid #ddd;
+      }
+
+      .user-list .user:last-child {
+        border-bottom: none;
+      }
+
+      .user-list .user .user-details {
+        flex-grow: 1;
+      }
+
+      .user-list .user .permission-buttons {
+        display: flex;
+        gap: 10px;
+      }
+
+      .user-list .user .permission-buttons button {
+        padding: 5px 10px;
+        border: none;
+        background-color: #f44;
+        color: #fff;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      .permissions-container {
+        margin-top: 20px;
+        border-top: 1px solid #ddd;
+        padding-top: 10px;
+      }
+
+      .permissions-container .permission {
+        margin-bottom: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>CHA | 관리자 권한</h1>
+    <div class="container">
+      <div class="search-container">
+        <input type="text" placeholder="검색" />
+      </div>
+      <div class="user-list">
+        <div class="user">
+          <div class="user-details">아이디 | 이름 | 이메일</div>
+        </div>
+        <div class="user">
+          <div class="user-details">
+            mujun0820 | 김무준 | mujun0820@gmail.com
+          </div>
+          <div class="permission-buttons">
+            <button>권한 추가</button>
+            <button>권한 삭제</button>
+          </div>
+        </div>
+      </div>
+      <div class="permissions-container">
+        <h2>현재 권한</h2>
+        <div class="permission">게시글 관리</div>
+        <div class="permission">유저 관리</div>
+        <div class="permission">기타 권한</div>
+      </div>
+    </div>
+  </body>
+</html>
